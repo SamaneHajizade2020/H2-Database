@@ -1,0 +1,6 @@
+[submodule "springbootConnectDatabaseTest/springbootConnectDatabaseTest/H2-Database"]
+	path = springbootConnectDatabaseTest/springbootConnectDatabaseTest/H2-Database
+	url = https://github.com/SamaneHajizade2020/H2-Database.git
+[submodule "springbootConnectDatabaseTest/springbootConnectDatabaseTest/springbootConnectDatabaseTest/H2-Database"]
+	path = springbootConnectDatabaseTest/springbootConnectDatabaseTest/springbootConnectDatabaseTest/H2-Database
+	url = https://github.com/SamaneHajizade2020/H2-Database.git
